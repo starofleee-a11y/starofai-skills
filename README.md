@@ -9,6 +9,7 @@ StarofAI 뉴스레터 「AI 실제로 어떻게 활용해?」(매주 목요일)�
 | No.02 | SC제일은행 코파일럿 전면 도입 | `regulated-ai-rollout`: 규제 산업에서 전사 AI를 여는 승인 가능한 운영 모델 설계서 | [zip](https://github.com/starofleee-a11y/starofai-skills/releases/download/biz-002/regulated-ai-rollout.zip) |
 | No.02 | SC제일은행 챔피언 50명 | `ai-champion-program`: 사용률을 끌어올리는 챔피언 선발·교육·측정 계획 | [zip](https://github.com/starofleee-a11y/starofai-skills/releases/download/biz-002/ai-champion-program.zip) |
 | No.04 | 네이버 블로그 자동 발행(API 없는 화면을 브라우저 자동화로) | `web-form-autopilot`: 로그인 한 번으로 API 없는 웹 화면에 반복 입력(화면 지도 → 입력 파일 → 미리 보기 → 제출) | [zip](https://github.com/starofleee-a11y/starofai-skills/releases/download/biz-004/biz-004-skill.zip) · [가이드 PDF](https://github.com/starofleee-a11y/starofai-skills/releases/download/biz-004/biz-004-guide.pdf) |
+| No.05 | 개인화 메일 일괄 발송(시트 명단 → Gmail 1명씩, 반송·수신거부 상태 기록) | `mail-merge-pilot`: CSV 명단 + 문안 템플릿 → 사람별 본문 생성, 1명씩 발송 뒤 상태표 갱신 | [zip](https://github.com/starofleee-a11y/starofai-skills/releases/download/biz-005/biz-005-skill.zip) · [가이드 PDF](https://github.com/starofleee-a11y/starofai-skills/releases/download/biz-005/biz-005-guide.pdf) |
 
 ## 설치
 - **Claude Code**: zip을 풀어 폴더째 `~/.claude/skills/` 에 넣으면 끝.
